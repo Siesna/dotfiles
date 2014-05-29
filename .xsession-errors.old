@@ -1,0 +1,19 @@
+Script for ibus started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd respawning too fast, stopped
+init: gnome-settings-daemon main process ended, respawning
+init: update-notifier-crash (/var/crash/susres.2014-05-27_10:45:27.392187.crash) main process (2325) killed by TERM signal
+init: gnome-settings-daemon main process (23493) killed by TERM signal
+init: gnome-session main process (2384) terminated with status 1
+init: unity-panel-service main process (2398) terminated with status 1

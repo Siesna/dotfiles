@@ -1,0 +1,4 @@
+Script for ibus started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+init: update-notifier-crash (/var/crash/susres.2014-05-27_10:45:27.392187.crash) main process (2336) terminated with status 1

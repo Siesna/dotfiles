@@ -1,0 +1,36 @@
+user = user.create!
+user = user.create!(:email => 'jaime@synaptian.com', :password => '!sereity?', :password_confirmation => '!serenity?')
+user = User.create!(:email => 'jaime@synaptian.com', :password => '!sereity?', :password_confirmation => '!serenity?')
+user = User.create!(:email => 'jaime@synaptian.com', :password => '!serenity?', :password_confirmation => '!serenity?')
+user = User.new
+user.email => "jaime@synaptain.com"
+user.email: "jaime@synaptain.com"
+user.email= "jaime@synaptain.com"
+user.password = "!serenity?"
+user.password_confirmation = "!serenity?"
+User.all
+user.id = 1
+user.email = "jaime@synaptian.com"
+user = User.create!
+user.name = "Jaime Blalock"
+user.erros
+user.password="serenity123"
+user.password_confirmation = "serenity123"
+user.password = "Serenity123"
+user.password_confirmation = "Serenity123"
+user.password="!Serenity123"
+user.password_confirmation  = "!Serenity123"
+user.errors
+user.confirmed_at = "2013-10-23 19:51:00"
+user.save
+user.roles = admin
+user.roles = "admin"
+user
+user = User.first
+exit
+r = RecurringOrder.new
+ r = SpreeRecurringOrder::RecurringOrder.new
+ r = RecurringOrder::RecurringOrder.new
+ r = spree_recurring_order::RecurringOrder.new
+ r = Recurring_Order::RecurringOrder.new
+ r = Spree_Recurring_Order::RecurringOrder.new

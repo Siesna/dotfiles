@@ -1,0 +1,6 @@
+alias proj='cd ~/Projects/'
+alias touchoff='synclient TouchpadOff=1'
+alias touchon='synclient TouchpadOff=0'
+alias agi='sudo apt-get install'
+alias checksyn='synclient | grep TouchpadOff'
+
